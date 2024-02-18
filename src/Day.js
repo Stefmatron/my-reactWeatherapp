@@ -6,6 +6,6 @@ export default function Day() {
     <div>
       <img src={icon} alt="sun icon" />
       <span className="temperature"><strong>15</strong>°C | °F</span>
-      </div>
+    </div>
   );
 }

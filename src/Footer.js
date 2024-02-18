@@ -5,9 +5,9 @@ export default function Footer() {
       <small>
         <a
           href="https://github.com/Stefmatron/my-reactWeatherapp"
-          target="_blank"
+          target="_blank" rel="noopener noreferrer"
           >Open-source code, </a>
-        by Stefanie Neb
+          by Stefanie Neb
       </small>
       );
       }
