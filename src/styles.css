@@ -1,7 +1,7 @@
-.App,
+
 div {
   font-family: sans-serif;
-  text-align: center;
+
 }
 .searchResult {
   font-family: sans-serif;
@@ -37,9 +37,13 @@ div {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     font-weight: 100;
-    text-align: left;
   }
-  small {
+
+  small, a {
     margin-top: 60px;
     text-align: left;
   }
+
+.Center {
+  text-align: center;
+}

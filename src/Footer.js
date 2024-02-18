@@ -2,10 +2,9 @@ import "./styles.css";
 
 export default function Footer() {
   return (
-
-<small>
+      <small>
         <a
-          href="https://github.com/Stefmatron/vanilla-weather-app"
+          href="https://github.com/Stefmatron/my-reactWeatherapp"
           target="_blank"
           >Open-source code </a>
         by Stefanie Neb
