@@ -6,7 +6,7 @@ export default function Footer() {
         <a
           href="https://github.com/Stefmatron/my-reactWeatherapp"
           target="_blank"
-          >Open-source code </a>
+          >Open-source code, </a>
         by Stefanie Neb
       </small>
       );
