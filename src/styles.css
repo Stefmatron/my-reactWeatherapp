@@ -29,6 +29,7 @@ div {
   h1 {
     color: rgb(135, 135, 135);
     font-size: 25px;
+    text-align: left;
   }
   
   li {
@@ -40,4 +41,5 @@ div {
   }
   small {
     margin-top: 60px;
+    text-align: left;
   }

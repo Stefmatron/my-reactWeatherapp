@@ -1,9 +1,14 @@
 import "./styles.css";
 
-export default function App() {
+export default function WeatherApp() {
   return (
     <div className="App">
-      <h1>Weather Search Engine</h1>
-    </div>
-  );
+      <h1>Argenthal</h1>
+        <ul>
+          <li>Montag 11:30</li>
+          <li>clear</li>
+        </ul>
+    </div> 
+);
 }
+    
